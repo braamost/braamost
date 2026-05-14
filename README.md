@@ -9,20 +9,20 @@ I enjoy building scalable systems, working with clean architectures, and applyin
 - Full-stack (Backend-focused) developer 
 - Interested in system design, concurrency, and distributed systems
 - Strong foundation in algorithms, operating systems, and networking
-- experience with machine learning using Python (scikit-learn)
+- experience with machine learning using Python
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages**
-- Python, C/C++, Ruby
+- Python, C/C++, Ruby, java
 
 **Frameworks**
 - Spring Boot, Ruby on Rails, React
 
-**Databases**
-- MySQL, JPA/Hibernate (Active Record in Rails)
+**Databases and caching**
+- MySQL, JPA/Hibernate, Active Record and redis
 
 **Software Engineering**
 - OOP, Design Patterns  
@@ -33,7 +33,7 @@ I enjoy building scalable systems, working with clean architectures, and applyin
 - Git, Docker, Linux, LaTeX
 
 **Machine Learning**
-- Scikit-learn, Data Preprocessing, Model Evaluation
+- Scikit-learn, tensorflow, Data Preprocessing, Model Evaluation
 
 ---
 
