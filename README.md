@@ -1,42 +1,123 @@
 # Hi, I'm Albraa Mostafa 👋
 
-Computer and Systems Engineering student with a strong focus on backend development and software engineering.  
-I enjoy building scalable systems, working with clean architectures, and applying design principles in real projects.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+and+Systems+Engineering+Student;" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧠 About Me
-- Full-stack (Backend-focused) developer 
-- Interested in system design, concurrency, and distributed systems
-- Strong foundation in algorithms, operating systems, and networking
-- experience with machine learning using Python
+# 🚀 About Me
+
+* 🎓 Computer and Systems Engineering student at Alexandria University
+* 💻 Full-stack developer focused on scalable backend systems and real-time applications
+* ⚙️ Interested in distributed systems, concurrency, operating systems, and backend architecture
+* 🤖 Currently exploring AI/ML systems and cloud computing
+* 🧠 Competitive programmer on LeetCode and Codeforces
+* 🔐 Interested in secure backend architectures, RBAC, JWT authentication, and real-time systems
 
 ---
 
-## ⚙️ Tech Stack
+# 🌐 Connect With Me
 
-**Languages**
-- Python, C/C++, Ruby, java
-
-**Frameworks**
-- Spring Boot, Ruby on Rails, React
-
-**Databases and caching**
-- MySQL, JPA/Hibernate, Active Record and redis
-
-**Software Engineering**
-- OOP, Design Patterns  
-- MVC Architecture, REST APIs  
-- Layered Architecture  
-
-**Tools**
-- Git, Docker, Linux, LaTeX
-
-**Machine Learning**
-- Scikit-learn, tensorflow, Data Preprocessing, Model Evaluation
+<p align="center">
+  <a href="mailto:braamostafa1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/braa-mostafa-977678279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/braamost">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/braaMostafa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/braaMost">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/braa-mostafa-977678279/
-- GitHub: https://github.com/braamost
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,ruby" />
+</p>
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
+
+## Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,rails,mysql,redis" />
+</p>
+
+## Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,maven,postman" />
+</p>
+
+## AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+* Scikit-learn
+* PyTorch
+* NumPy
+* Pandas
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=braamost&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=braamost&theme=tokyonight" />
+</p>
+
+---
+
+# 🧠 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/braaMostafa?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+
+# 📚 Currently Learning
+
+* ☁️ AWS & Cloud Fundamentals
+* 🤖 Deep Learning & Representation Learning
+* ⚡ Distributed Systems Design
+* 🧵 Advanced Concurrency & Synchronization
+* 🏗️ Scalable Backend Architectures
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=braamost&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building systems that are scalable, secure, and reliable."</i>
+</p>
