@@ -44,7 +44,7 @@
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,ruby,c#" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,ruby,cs" />
 </p>
 
 ## Frontend
@@ -56,7 +56,7 @@
 ## Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,rails,.net,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=spring,rails,dotnet,mysql,redis" />
 </p>
 
 ## Tools & DevOps
