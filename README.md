@@ -13,7 +13,7 @@
 * ⚙️ Interested in distributed systems, concurrency, operating systems, and backend architecture
 * 🤖 Currently exploring AI/ML systems and cloud computing
 * 🧠 Competitive programmer on LeetCode and Codeforces
-* 🔐 Interested in secure backend architectures, RBAC, JWT authentication, and real-time systems
+* 🔐 Interested in secure backend architectures, JWT authentication, and real-time systems
 
 ---
 
@@ -44,7 +44,7 @@
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,ruby" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,ruby,c#" />
 </p>
 
 ## Frontend
@@ -56,7 +56,7 @@
 ## Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,rails,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=spring,rails,.net,mysql,redis" />
 </p>
 
 ## Tools & DevOps
